@@ -1,0 +1,9 @@
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\bin\Debug\ConvolutionRecreate.exe.config
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.csprojResolveAssemblyReference.cache
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.Form1.resources
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.Properties.Resources.resources
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.csproj.GenerateResource.Cache
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\bin\Debug\ConvolutionRecreate.exe
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\bin\Debug\ConvolutionRecreate.pdb
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.exe
+E:\CPEG\Assignments\ConvolutionRecreate\ConvolutionRecreate\obj\Debug\ConvolutionRecreate.pdb
